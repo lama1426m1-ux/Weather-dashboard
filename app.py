@@ -12,7 +12,7 @@ st.set_page_config(
     page_title="Saudi Cities Weather Dashboard",
     layout="wide"
 )
-
+# اغير اسم التايتل على اللي ابيه
 st.title("🌤 Real-Time Weather Dashboard (Open-Meteo)")
 st.caption("Data source: Open-Meteo.com (Free weather API – no API key required)")
 
